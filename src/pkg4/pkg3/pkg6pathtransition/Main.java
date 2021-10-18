@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package pkg4.pkg3.pkg6pathtransition;
 
 import javafx.animation.PathTransition;
@@ -18,7 +13,7 @@ import javafx.util.Duration;
 
 /**
  *
- * @author ivan
+ * @author Iván Zambrana Naranjo
  */
 public class Main extends Application {
     
